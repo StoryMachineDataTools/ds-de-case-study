@@ -5,8 +5,6 @@ You are tasked with building a data pipeline to process social media profile dat
 
 ## Assignment Tasks
 
-## Assignment Tasks
-
 ### Task 1: Examine the provided data.
 
 ### Task 2: Run the Python script to create the SQLite database.
